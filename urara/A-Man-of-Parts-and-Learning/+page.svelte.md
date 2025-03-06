@@ -2,7 +2,7 @@
 title: 'A Man of Parts and Learning'
 description: 'Sleuthing the origins of a Painting'
 alt: 'Learning'
-published: Fara Dabhoiwala
+published: Fara Dabhoiwala London Review of Books
 created: 2024-11-01
 tags: ['Long-Read', 'Story']
 ---

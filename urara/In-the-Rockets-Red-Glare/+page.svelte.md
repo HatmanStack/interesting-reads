@@ -2,7 +2,7 @@
 title: 'In the Rockets’ Red Glare'
 description: 'The past and future of hot-rodding in America'
 alt: 'Racing'
-published: Rachel Kushner
+published: Rachel Kushner Harper's Magazine
 created: 2024-12-01
 tags: ['Racing', 'Story', 'Long-Read']
 ---
